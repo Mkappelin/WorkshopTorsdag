@@ -1,0 +1,2 @@
+# WorkshopTorsdag
+Learning Git
